@@ -1,6 +1,6 @@
 # Azure
 
-[![DEV - Deploy Azure Resource](https://github.com/ArtiomLK/azure-bicep-front-door/actions/workflows/dev.orchestrator.yml/badge.svg?branch=main&event=push)](https://github.com/ArtiomLK/azure-bicep-front-door/actions/workflows/dev.orchestrator.yml)
+[![DEV - Deploy Azure Resource](https://github.com/ArtiomLK/azure-bicep-service-bus/actions/workflows/dev.orchestrator.yml/badge.svg?branch=main&event=push)](https://github.com/ArtiomLK/azure-bicep-service-bus/actions/workflows/dev.orchestrator.yml)
 
 ## Instructions
 
